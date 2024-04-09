@@ -1,5 +1,5 @@
 git clone
-git add .
-git commit
-git push
-git pull //pokazde pri zapnuti
+git add . //prida zmenu
+git commit //ulozi (asi) zmenu, s popiskem
+git push //odesle zmenu
+git pull //pokazde pri zapnuti, nahraje zmeny
